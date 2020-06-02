@@ -1,0 +1,8 @@
+com\PageObjects\LoginPage.class
+com\Utilites\Reporting.class
+com\TestCases\TC_LoginPage_001.class
+com\TestCases\BaseClass.class
+com\TestCases\TC_LoginPage_002.class
+com\Utilites\ReadConfig.class
+com\Utilites\XLUtlities.class
+com\Utilites\ReadDataExcel.class
